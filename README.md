@@ -26,6 +26,7 @@
 <img alt="tool skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=git,github,gitlab,figma,docker,notion,discord,vscode" />
 <br>
 
+<!--
 ## 🏃‍♀️ Activities
 
 <div align="left"> 
@@ -33,7 +34,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saneatsu&theme=vue-dark&layout=compact" />
 </div>
 
-<!--
 **saneatsu/saneatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
