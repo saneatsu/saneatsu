@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning Remix and Cloudflare!
-- 🕊️ How to reach me: [X - @\_\_saneatsu](https://x.com/__saneatsu)
+- 🕊️ How to reach me: [X - @\_\_saneatsu](https://x.com/saneatsu_wakana)
   <br>
 
 ## 🌱 Skills
